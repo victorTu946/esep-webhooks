@@ -110,11 +110,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Victor Tu\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
+      "projectUniqueName": "C:\\Users\\Victor Tu\\desktop\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
       "projectName": "EsepWebhook",
-      "projectPath": "C:\\Users\\Victor Tu\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
+      "projectPath": "C:\\Users\\Victor Tu\\desktop\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
       "packagesPath": "C:\\Users\\Victor Tu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Victor Tu\\EsepWebhook\\src\\EsepWebhook\\obj\\",
+      "outputPath": "C:\\Users\\Victor Tu\\desktop\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Victor Tu\\AppData\\Roaming\\NuGet\\NuGet.Config"
